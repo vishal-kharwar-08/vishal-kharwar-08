@@ -74,11 +74,15 @@
 
 ## 📈 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-kharwar-08&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-kharwar-08&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kharwar-08&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kharwar-08&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vishal-kharwar-08&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishal-kharwar-08&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
